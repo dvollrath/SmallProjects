@@ -13,6 +13,8 @@ Each project I'm interested in is tracked as an "Issue" in Github. If you are go
 1. Have a Github account. You can sign up for one for free. 
 2. Assign yourself to the issue associated with the project you are going to work on. This ensures I know who is working on what, and allows others to see that a project is "claimed" already. 
 
+Each of those Issues should have a document in the "Projects" folder which describes what I want in more detail. 
+
 ## Communication and questions
 All questions or comments on your project should go through your "Issue" in Github. You can leave comments there and I'll get notified. You can/should leave links, working examples, or copies of files that clarify your question.
 
