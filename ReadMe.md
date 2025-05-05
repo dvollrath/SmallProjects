@@ -11,7 +11,8 @@ If you complete a substantial set of work on one of the projects, I will be happ
 Each project I'm interested in is tracked as an "Issue" in Github. If you are going to work on one, you'll need to:
 
 1. Have a Github account. You can sign up for one for free. 
-2. Assign yourself to the issue associated with the project you are going to work on. This ensures I know who is working on what, and allows others to see that a project is "claimed" already. 
+2. E-mail me your Github username, and I will add you as a collaborator on the repository. 
+3. Once you are a collaborator you should have the ability to assign yourself to an Issue
 
 Each of those Issues should have a folder with an obvious matching name in the repository. That's where all the work on this issue should go.
 
