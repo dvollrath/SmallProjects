@@ -5,7 +5,7 @@ If you are interested in working on a project, then you need only sign up (see n
 
 The terms of this are very hands off from my perspective. I do not have the time to do careful coaching of anyone through these summer projects. These are entirely self-driven. See below for how to communicate questions or issues about the project to me. 
 
-If you complete a substantial set of work on one of the projects, I will be happy to discuss what kind of help I can give you going forward. Often that includes a reference letter for undergrad, grad, or post-doc positions. 
+If you complete a substantial set of work on one of the projects, I will be happy to discuss what kind of help I can give you going forward. Often that includes a reference letter for undergrad, grad, or post-doc positions. We will work together on that so I know what kind of information will be helpful to you and can ask questions I might need answers to so that I can write the best possible letter. 
 
 ## Projects as issues
 Each project I'm interested in is tracked as an "Issue" in Github. If you are going to work on one, you'll need to:
@@ -13,7 +13,14 @@ Each project I'm interested in is tracked as an "Issue" in Github. If you are go
 1. Have a Github account. You can sign up for one for free. 
 2. Assign yourself to the issue associated with the project you are going to work on. This ensures I know who is working on what, and allows others to see that a project is "claimed" already. 
 
-Each of those Issues should have a document in the "Projects" folder which describes what I want in more detail. 
+Each of those Issues should have a folder with an obvious matching name in the repository. That's where all the work on this issue should go.
+
+## Local work and pull requests
+When you have decided to work on a project you should clone or download the repository to your local computer. Work on it there, add files, write your code, etc. 
+
+When you have a substantial set of work done that I can look at:
+1. Go back to the Issue and leave a comment on it that you think you're done or at a major checkpoint.
+2. In Github, issue a "Pull Request" for your local code. That will alert me that it's ready for review. I can then check it over and approve it if we're good. When I approve it, it will get copied into the main repository. 
 
 ## Communication and questions
 All questions or comments on your project should go through your "Issue" in Github. You can leave comments there and I'll get notified. You can/should leave links, working examples, or copies of files that clarify your question.
@@ -22,24 +29,28 @@ I get notified of the comments, and I'll reply in the Issue itself. I don't moni
 
 In general, trust yourself. There are no clear "right answers" for these projects. The most important thing is that you keep clear documentation of what you did (both in the code, and possibly in a write-up) so that we can replicate it, see whether it works, and modify if necessary. 
 
+I hate Zoom, so my preference is that we communicate via the Issues on Github. If we get very stuck on something we might need to talk directly, but my goal is to avoid this unless necessary. I know that sounds kind of cold, but that is how I roll on these. It also ensures all the questions and answers we have are documented and don't need to be answered again and again.
+
 ## Files
-There are three folders that all your work should go into
+Inside each folder for a proejct there are three folders where all work should go
 
 1. Code. For, you know, any code that you write
-2. Data. This is for raw data only. Any file that goes in here should be untouched by you in any way. Your code reads or manipulates this into a form that we can use. 
+2. Data. 
+  - This is for raw data only. Any file that goes in here should be untouched by you in any way. Your code reads or manipulates this into a form that we can use. 
+  - Documentation (PDFs) for that data can also be stored here
+  - A markdown file (md extension) can also go in here with description of where data was downloaded from and relevant URLs. Each raw data file should have a record in this markdown file making it clear where it was obtained.
 3. Output. This is where those manipulated files get stored. 
 
 The basic idea is that Data -> Code -> Output. 
 
-## Sub-folders
-Within Code, Data, and Output, you should create a sub-folder for your particular work. That sub-folder should have the same name. For example, there should be Code/Geography, Data/Geography, and Output/Geography, if you are working on an economic geography project. 
+If there are other files that you use (a research paper, etc.) those can go in the main project folder
 
 ## Excel and CSV
-Excel is for raw data only. You can store an Excel file you download or find into the Data folder for your project. 
+Excel is for raw data only. You can store an Excel file you download into the Data folder for your project. 
 
 But all output files of data have to be in CSV format. Excel is not viable. 
 
-If you have an Excel file as a raw input, then there must be something in Code that reads that Excel file and writes the CSV file to the Output folder. There is no cutting and pasting, or hand calculation involved or allowed here. 
+If you have an Excel file as a raw input, then there must be something in Code that reads that Excel file and writes the CSV file to the Output folder. There is no cutting and pasting, or hand calculation involved or allowed here. There are routines and packages for R, Stata, and Python that read Excel. 
 
 *If you don't know how to write code to read Excel and write CSV, you need to figure that out for yourself*
 
