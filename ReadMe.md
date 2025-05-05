@@ -22,6 +22,9 @@ When you have a substantial set of work done that I can look at:
 1. Go back to the Issue and leave a comment on it that you think you're done or at a major checkpoint.
 2. In Github, issue a "Pull Request" for your local code. That will alert me that it's ready for review. I can then check it over and approve it if we're good. When I approve it, it will get copied into the main repository. 
 
+## Working together
+I don't have a problem with multiple people working on a given project. The coordination of that work is up to those people. The default is that credit will be split evenly. If you want to have a more definitive assessment of who contributed what, then the pull requests can be used to assess individual contribution. 
+
 ## Communication and questions
 All questions or comments on your project should go through your "Issue" in Github. You can leave comments there and I'll get notified. You can/should leave links, working examples, or copies of files that clarify your question.
 
