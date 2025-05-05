@@ -52,7 +52,6 @@ But all output files of data have to be in CSV format. Excel is not viable.
 
 If you have an Excel file as a raw input, then there must be something in Code that reads that Excel file and writes the CSV file to the Output folder. There is no cutting and pasting, or hand calculation involved or allowed here. There are routines and packages for R, Stata, and Python that read Excel. 
 
-*If you don't know how to write code to read Excel and write CSV, you need to figure that out for yourself*
 
 ## Code
 You can use Python, R, or Stata. I'm not conversant in other languages and I don't want to learn them. 
