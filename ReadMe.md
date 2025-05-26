@@ -73,3 +73,4 @@ Please only post work to Github via a pull request, as opposed to using Google D
 
 This seems like overkill, I'm sure. From my perspective it is necessary as part of managing many projects, and is a usual feature of projects like this which operate on plain text data files. See learning Git as a feature here, as it is something you can put on a resume and use to assist in finding other RA jobs.
 
+To assist, you can also download [Github Desktop](https://desktop.github.com/download/) which gives you a GUI interface and helps step through the process of pushing your work to the repository online.
