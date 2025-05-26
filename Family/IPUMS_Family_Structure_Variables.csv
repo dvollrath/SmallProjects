@@ -1,0 +1,18 @@
+Variable Name,Description,Source Section,Coverage Summary
+HHTYPE,"Household type/composition (e.g., nuclear, extended, polygamous)",Household,Available in most census samples; not in individual-only datasets
+PERSONS,Total number of persons in the household,Household,Available in all IPUMS samples
+UNREL,Number of unrelated individuals in the household,Household,Available in most household samples
+NCOUPLES,Number of spouse or cohabiting couples,Household,Available in nearly all samples with relationship data
+NMOTHERS / NFATHERS,Number of mothers/fathers in the household,Household,Available in most household-based samples
+NFAMS,Number of distinct families in a household,Household,Available in all household-based samples
+HEADLOC,Location (person number) of the household head,Household,Available in nearly all samples
+RELATE,Relationship to head of household,Person,Virtually all IPUMS samples
+MARST,Marital status,Person,Available in all IPUMS samples
+MOMLOC / POPLOC,Location of person's mother/father in the household,Person,Available in most samples with family structure data
+SPLOC,Spouse location pointer,Person,Available in nearly all household-based samples
+STEPMOM / STEPPOP,Indicators for probable stepmother/stepfather,Person,Present in most samples with pointer variables
+POLYMAL / POLY2ND,Indicators for polygamous unions,Person,Available in many African and Asian samples
+NCHILD,Number of person's own children in household,Person,Available in all samples with parent pointer variables
+FAMUNIT,Family unit membership code,Person,Available in all samples with relationship/pointer data
+FAMSIZE,Size of family unit in household,Person,Available in all household-based samples
+SUBFREL / SUBFNUM,Subfamily relationship and subfamily number,Person,Available in limited number of samples (mainly older or Latin American datasets)
