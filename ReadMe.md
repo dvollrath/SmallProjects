@@ -66,4 +66,10 @@ You can use Python, R, or Stata. I'm not conversant in other languages and I don
 
 CoPilot, ChatGPT, and Stack Overflow are where you can find help. *I am not a help desk*
 
+## Github
+Please only post work to Github via a pull request, as opposed to using Google Docs or anything like that. That will require you to issue a "pull request" for the project. This keeps control and ensure everything is in one place. To learn how to do this you can work through Git's intro materials (which also have links to more advanced options)
+
+[Intro to Github](https://github.com/skills/introduction-to-github)
+
+This seems like overkill, I'm sure. From my perspective it is necessary as part of managing many projects, and is a usual feature of projects like this which operate on plain text data files. See learning Git as a feature here, as it is something you can put on a resume and use to assist in finding other RA jobs.
 
