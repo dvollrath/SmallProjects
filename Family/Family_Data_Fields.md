@@ -1,7 +1,4 @@
----
-title: Household-Level Variables (Harmonized)
----
-
+# Household-Level Variables (Harmonized)
 Gustavo Rivas
 Professor Vollrath
 
