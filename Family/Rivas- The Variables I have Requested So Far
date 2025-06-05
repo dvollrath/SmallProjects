@@ -1,0 +1,24 @@
+Type	Variable	Label
+H	COUNTRY	Country
+H	YEAR	Year
+H	SAMPLE	IPUMS sample identifier
+H	SERIAL	Household serial number
+H	HHWT	Household weight
+H	FORMTYPE	Questionnaire type received by household
+H	PERSONS	Number of person records in the household
+H	HHTYPE	Household classification
+H	NFAMS	Number of families in household
+H	NCOUPLES	Number of married couples in household
+H	HEADLOC	Head's location in household
+P	PERNUM	Person number
+P	PERWT	Person weight
+P	RESIDENT	Residence status: de facto, de jure
+P	MOMLOC	Mother's location in household
+P	POPLOC	Father's location in household
+P	SPLOC	Spouse's location in household
+P	FAMUNIT	Family unit membership
+P	FAMSIZE	Number of own family members in household
+P	RELATE (general)	Relationship to household head [general version]
+P	RELATED (detailed)	Relationship to household head [detailed version]
+P	MARST (general)	Marital status [general version]
+P	MARSTD (detailed)	Marital status [detailed version]
