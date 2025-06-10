@@ -1,0 +1,95 @@
+Country,Years Available,Notes
+Armenia,"2001, 2011",
+Argentina,"1970, 1980, 2001, 2010",
+Austria,"1971, 1981, 1991, 2001, 2011",
+Bangladesh,"1991, 2001, 2011",
+Burkina Faso,"1985, 1996, 2006",
+Benin,"1979, 1992, 2002, 2013",
+Bolivia,"1976, 1992, 2001, 2012",
+Brazil,"1970, 1980, 1991, 2000, 2010",
+Botswana,"1981, 1991, 2001, 2011",
+Belarus,"1999, 2009",
+Canada,2011,
+Switzerland,"1970, 1980, 1990, 2000",
+Côte d'Ivoire,"1988, 1998",
+Chile,"1970, 1982, 1992, 2002, 2017",
+Cameroon,"1976, 1987, 2005",
+China,"1982, 1990, 2000",
+Colombia,"1973, 1985, 2005",
+Costa Rica,"1973, 1984, 2000, 2011",
+Cuba,"2002, 2012",
+Germany,"1971, 1981, 1987",1971 & 1981 East Germany; 1987 West Germany
+Dominican Republic,"1981, 2002, 2010",
+Ecuador,"1982, 1990, 2001, 2010",
+Egypt,"1996, 2006",
+Spain,"1991, 2001, 2011",
+Ethiopia,"1984, 1994, 2007",1984: Missing geographic areas; 2007: Short-questionnaire missing variables
+Fiji,"1966, 1976, 1986, 1996, 2007, 2014",
+France,"1962, 1968, 1975, 1982, 1990, 1999, 2006, 2011",2006 & 2011 include overseas departments
+Ghana,"1984, 2000, 2010",
+Guinea,"1983, 1996, 2014",
+Greece,"1971, 1981, 1991, 2001, 2011",
+Guatemala,"1964, 1973, 1981, 1994, 2002",
+Honduras,"1974, 1988, 2001, 2013",
+Haiti,"1971, 2003",
+Hungary,"1970, 1980, 1990, 2001, 2011",
+Indonesia,"1971, 1976, 1980, 1985, 1990, 1995, 2000, 2005, 2010",Some intercensal surveys; regional exclusions
+Ireland,"1971, 1979, 1981, 1986, 1991, 1996, 2002, 2006, 2011, 2016",Age grouped into categories
+Israel,"1972, 1983, 1995, 2008",Age grouped into categories
+Iraq,1997,Excludes 3 governorates
+Iran,"2006, 2011",
+Italy,"2001, 2011",Ages grouped into categories
+Jamaica,"1982, 1991, 2001",
+Jordan,2004,
+Kenya,"1969, 1989, 1999, 2009, 2019",1969: Nairobi oversample
+Kyrgyzstan,"1999, 2009",
+Cambodia,"1998, 2008, 2019",
+Laos,"1995, 2005, 2015",
+Saint Lucia,"1980, 1991",
+Liberia,2008,
+Lesotho,"1996, 2006",
+Morocco,"1982, 1994, 2004, 2014",2014: Age is grouped
+Mali,"1987, 1998, 2009",
+Myanmar,2014,
+Mongolia,"1989, 2000, 2010, 2020",1989: Clustered sample; 2020: combined short and long forms
+Mauritius,"1990, 2000, 2011",
+Malawi,"1987, 1998, 2008, 2018",
+Mexico,"1970, 1990, 1995, 2000, 2005, 2010, 2015, 2020",
+Malaysia,"1970, 1980, 1991, 2000",1970 & 1980 exclude Sabah and Sarawak
+Mozambique,"1997, 2007, 2017",
+Nicaragua,"1971, 1995, 2005",
+Nepal,"2001, 2011",
+Panama,"1960, 1970, 1980, 1990, 2000, 2010",
+Peru,"1993, 2007, 2017",
+Papua New Guinea,"1980, 1990, 2000",
+Philippines,"1990, 1995, 2000, 2010",
+Poland,"1978, 1988, 2002, 2011",
+Puerto Rico,"1970, 1980, 1990, 2000, 2005, 2010, 2015, 2020",2005–2020: Household surveys
+Palestine,"1997, 2007, 2017",Age is grouped; 2007: West Bank only
+Portugal,"1981, 1991, 2001, 2011",
+Paraguay,"1962, 1972, 1982, 1992, 2002",
+Romania,"1977, 1992, 2002, 2011",1977: Excludes Alba and Arad
+Russia,"2002, 2010",
+Rwanda,"1991, 2002, 2012",
+Sudan,2008,
+Slovenia,2002,Age grouped
+Sierra Leone,"2004, 2015",
+Senegal,"1988, 2002, 2013",
+Suriname,2012,
+South Sudan,2008,
+El Salvador,"1992, 2007",
+Togo,"1970, 2010",
+Thailand,"1970, 1980, 1990, 2000",
+Turkey,"1985, 1990, 2000",
+Trinidad and Tobago,"1970, 1980, 1990, 2000, 2011",
+Tanzania,"1988, 2002, 2012",
+Ukraine,2001,
+Uganda,"1991, 2002, 2014",
+United Kingdom,"1961, 1971, 1991, 2001",2001: Persons not organized into households
+United States,"1960, 1970, 1980, 1990, 2000, 2005, 2010, 2015, 2020",2005–2020: Household surveys
+Uruguay,"1963, 1975, 1985, 1996, 2006, 2011",2006: Household survey
+Venezuela,"1971, 1981, 1990, 2001",
+Vietnam,"1989, 1999, 2009, 2019",
+South Africa,"1996, 2001, 2007, 2011, 2016",1996: 19 districts not household-organized
+Zambia,"1990, 2000, 2010",
+Zimbabwe,2012,
